@@ -1,0 +1,5 @@
+﻿  student.cpp
+c:\users\pavel\desktop\izg_labs-main\izg_lab_05\student.cpp(79): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+c:\users\pavel\desktop\izg_labs-main\izg_lab_05\student.cpp(121): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  izg_lab_04.vcxproj -> C:\Users\pavel\Desktop\IZG_LABS-main\izg_lab_05\Debug\izg_lab_04.exe
+  izg_lab_04.vcxproj -> C:\Users\pavel\Desktop\IZG_LABS-main\izg_lab_05\Debug\izg_lab_04.pdb (Full PDB)
